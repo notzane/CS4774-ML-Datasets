@@ -28605,7 +28605,7 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,runoff,s
 2018,Illinois,IL,17,33,21,US House,3,gen,NA,FALSE,Arthur J. Jones,republican,FALSE,total,57885,223334,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,3,gen,NA,FALSE,Daniel William Lipinski,democrat,FALSE,total,163053,223334,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,3,gen,NA,FALSE,NA,NA,TRUE,total,2396,223334,FALSE,20190110
-2018,Illinois,IL,17,33,21,US House,4,gen,NA,FALSE,Jesus \Chuy\ Garcia,democrat,FALSE,total,143895,166189,FALSE,20190110
+2018,Illinois,IL,17,33,21,US House,4,gen,NA,FALSE,Jesus Chuy Garcia,democrat,FALSE,total,143895,166189,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,4,gen,NA,FALSE,Mark Wayne Lorch,republican,FALSE,total,22294,166189,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,5,gen,NA,FALSE,Mike Quigley,democrat,FALSE,total,213992,279131,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,5,gen,NA,FALSE,Tom Hanson,republican,FALSE,total,65134,279131,FALSE,20190110
@@ -28615,7 +28615,7 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,runoff,s
 2018,Illinois,IL,17,33,21,US House,6,gen,NA,FALSE,NA,NA,TRUE,total,0,315446,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,7,gen,NA,FALSE,Craig Cameron,republican,FALSE,total,30497,246243,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,7,gen,NA,FALSE,Danny K. Davis,democrat,FALSE,total,215746,246243,FALSE,20190110
-2018,Illinois,IL,17,33,21,US House,8,gen,NA,FALSE,Jitendra \Jd\ Diganvker,republican,FALSE,total,67073,197127,FALSE,20190110
+2018,Illinois,IL,17,33,21,US House,8,gen,NA,FALSE,Jitendra Jd Diganvker,republican,FALSE,total,67073,197127,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,8,gen,NA,FALSE,Raja Krishnamoorthi,democrat,FALSE,total,130054,197127,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,9,gen,NA,FALSE,Janice D. Schakowsky,democrat,FALSE,total,213368,290351,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,9,gen,NA,FALSE,John D. Elleson,republican,FALSE,total,76983,290351,FALSE,20190110
@@ -28630,7 +28630,7 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,runoff,s
 2018,Illinois,IL,17,33,21,US House,13,gen,NA,FALSE,Rodney Davis,republican,FALSE,total,136516,270981,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,13,gen,NA,FALSE,NA,NA,TRUE,total,7,270981,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,14,gen,NA,FALSE,Lauren Underwood,democrat,FALSE,total,156035,297199,FALSE,20190110
-2018,Illinois,IL,17,33,21,US House,14,gen,NA,FALSE,Randall M. \Randy\ Hultgren,republican,FALSE,total,141164,297199,FALSE,20190110
+2018,Illinois,IL,17,33,21,US House,14,gen,NA,FALSE,Randall M. Randy Hultgren,republican,FALSE,total,141164,297199,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,15,gen,NA,FALSE,John M. Shimkus,republican,FALSE,total,181294,255608,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,15,gen,NA,FALSE,Kevin Gaither,democrat,FALSE,total,74309,255608,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,15,gen,NA,FALSE,NA,NA,TRUE,total,5,255608,FALSE,20190110
@@ -28638,7 +28638,7 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,runoff,s
 2018,Illinois,IL,17,33,21,US House,16,gen,NA,FALSE,Sara Dady,democrat,FALSE,total,104569,255825,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,16,gen,NA,FALSE,NA,NA,TRUE,total,2,255825,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,17,gen,NA,FALSE,Cheri Bustos,democrat,FALSE,total,142659,229749,FALSE,20190110
-2018,Illinois,IL,17,33,21,US House,17,gen,NA,FALSE,William W. \Bill\ Fawell,republican,FALSE,total,87090,229749,FALSE,20190110
+2018,Illinois,IL,17,33,21,US House,17,gen,NA,FALSE,William W. Bill Fawell,republican,FALSE,total,87090,229749,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,18,gen,NA,FALSE,Darin Lahood,republican,FALSE,total,195927,291413,FALSE,20190110
 2018,Illinois,IL,17,33,21,US House,18,gen,NA,FALSE,Junius Rodriguez,democrat,FALSE,total,95486,291413,FALSE,20190110
 2018,Indiana,IN,18,32,22,US House,1,gen,NA,FALSE,Peter J. Visclosky,democrat,FALSE,total,159611,245209,FALSE,20190110
